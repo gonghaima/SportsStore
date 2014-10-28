@@ -16,3 +16,26 @@ F:\Study\project files\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPa
 F:\Study\project files\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
 F:\Study\project files\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 F:\Study\project files\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb

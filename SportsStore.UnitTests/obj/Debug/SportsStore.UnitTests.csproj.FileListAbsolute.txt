@@ -29,3 +29,40 @@ F:\Study\project files\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.We
 F:\Study\project files\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
 F:\Study\project files\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 F:\Study\project files\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.config
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.Web.Common.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Helpers.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Mvc.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Razor.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\WebActivator.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.Web.Common.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Helpers.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Mvc.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Razor.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb

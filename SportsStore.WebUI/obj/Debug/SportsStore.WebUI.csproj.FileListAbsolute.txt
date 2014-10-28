@@ -27,3 +27,40 @@ F:\Study\project files\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
 F:\Study\project files\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 F:\Study\project files\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 F:\Study\project files\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\Moq.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\Moq.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.pdb
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+E:\DTLFolder\Temp\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
